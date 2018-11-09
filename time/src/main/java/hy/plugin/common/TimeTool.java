@@ -24,6 +24,10 @@ public class TimeTool extends Tool {
             STR_HOUR = "小时", STR_MIN = "分钟", STR_DAY = "天", STR_NOW = "刚刚", STR_AGO = "前",
             STR_TODAY = "今天", STR_YESTERDAY = "昨天", SIR_TWODAYS = "前天";
 
+
+
+
+
 //
 //    public static final int TYPE_YEAR = 1,
 //            TYPE_MONTH = 2,
@@ -266,7 +270,12 @@ public class TimeTool extends Tool {
         return calendar.getTime();
     }
 
-
+    /**
+     * @Description:
+     * @Param: [startDate, endDate]
+     * @return: int
+     * @Date: 2018/11/9
+     */
     public int getDistDate(Date startDate, Date endDate) {
 
         try {
