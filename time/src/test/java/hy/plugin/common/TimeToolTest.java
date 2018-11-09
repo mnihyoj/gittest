@@ -1,6 +1,6 @@
 package hy.plugin.common;
 
-import hy.plugin.factory.ToolFactory;
+import hy.plugin.common.factory.ToolFactory;
 import org.junit.Test;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;

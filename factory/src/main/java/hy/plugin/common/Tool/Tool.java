@@ -1,4 +1,4 @@
-package hy.plugin.Tool;
+package hy.plugin.common.Tool;
 
 /**
  * @description: 工具抽象类

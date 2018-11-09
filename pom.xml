@@ -9,6 +9,7 @@
   <packaging>pom</packaging>
   <version>1.0.0</version>
   <modules>
+    <module>factory</module>
     <module>time</module>
     <module>map</module>
   </modules>
@@ -35,6 +36,7 @@
       <artifactId>jcl-over-slf4j</artifactId>
       <version>1.7.12</version>
     </dependency>
+
     <dependency>
       <groupId>ch.qos.logback</groupId>
       <artifactId>logback-core</artifactId>

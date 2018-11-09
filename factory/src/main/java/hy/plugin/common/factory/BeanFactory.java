@@ -1,4 +1,4 @@
-package hy.plugin.factory;
+package hy.plugin.common.factory;
 
 import java.lang.reflect.Constructor;
 

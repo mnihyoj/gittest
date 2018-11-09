@@ -1,10 +1,44 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="68b32935-844a-4f3f-a96c-4cba8a8fd25f" name="Default Changelist" comment="" />
+    <list default="true" id="68b32935-844a-4f3f-a96c-4cba8a8fd25f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/factory/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/map/target/map-1.0.0.jar" beforeDir="false" afterPath="$PROJECT_DIR$/map/target/map-1.0.0.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/map/target/surefire-reports/TEST-hy.plugin.common.AppTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/map/target/surefire-reports/TEST-hy.plugin.common.AppTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/map/target/surefire-reports/hy.plugin.common.AppTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/map/target/surefire-reports/hy.plugin.common.AppTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/hy/plugin/Tool/Tool.java" beforeDir="false" afterPath="$PROJECT_DIR$/factory/src/main/java/hy/plugin/common/Tool/Tool.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/hy/plugin/common/Constant.java" beforeDir="false" afterPath="$PROJECT_DIR$/factory/src/main/java/hy/plugin/common/common/Constant.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/hy/plugin/factory/BeanFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/factory/src/main/java/hy/plugin/common/factory/BeanFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/hy/plugin/factory/ToolFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/factory/src/main/java/hy/plugin/common/factory/ToolFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/hy/plugin/Tool/Tool.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/hy/plugin/common/Constant.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/hy/plugin/factory/BeanFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/hy/plugin/factory/ToolFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/time/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/time/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/time/src/main/java/hy/plugin/common/TimeTool.java" beforeDir="false" afterPath="$PROJECT_DIR$/time/src/main/java/hy/plugin/common/TimeTool.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/time/src/test/java/hy/plugin/common/TimeToolTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/time/src/test/java/hy/plugin/common/TimeToolTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/time/target/classes/hy/plugin/common/TimeTool.class" beforeDir="false" afterPath="$PROJECT_DIR$/time/target/classes/hy/plugin/common/TimeTool.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/time/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/time/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/time/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/time/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/time/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/time/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/time/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/time/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/time/target/surefire-reports/TEST-hy.plugin.common.AppTest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/time/target/surefire-reports/hy.plugin.common.AppTest.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/time/target/test-classes/hy/plugin/common/TimeToolTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/time/target/test-classes/hy/plugin/common/TimeToolTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/time/target/time-1.0.0.jar" beforeDir="false" afterPath="$PROJECT_DIR$/time/target/time-1.0.0.jar" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/time/target/" />
     <ignored path="$PROJECT_DIR$/map/target/" />
+    <ignored path="$PROJECT_DIR$/baseFatcory/target/" />
+    <ignored path="$PROJECT_DIR$/base/target/" />
+    <ignored path="$PROJECT_DIR$/factory/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,80 +63,91 @@
     <session id="1911653701">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
+          <entry key="project.closed" value="9" />
+          <entry key="project.open.time.0" value="2" />
+          <entry key="project.open.time.1" value="2" />
+          <entry key="project.open.time.10" value="2" />
+          <entry key="project.open.time.11" value="1" />
+          <entry key="project.open.time.2" value="3" />
           <entry key="project.open.time.22" value="1" />
           <entry key="project.open.time.26" value="1" />
+          <entry key="project.open.time.6" value="2" />
           <entry key="project.open.time.8" value="1" />
-          <entry key="project.opened" value="3" />
+          <entry key="project.open.time.9" value="1" />
+          <entry key="project.opened" value="16" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="class" value="2" />
-          <entry key="java" value="11" />
-          <entry key="xml" value="3" />
+          <entry key="java" value="23" />
+          <entry key="xml" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="CLASS" value="2" />
-          <entry key="JAVA" value="11" />
-          <entry key="XML" value="3" />
+          <entry key="JAVA" value="23" />
+          <entry key="XML" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="ft" value="35" />
-          <entry key="java" value="2084" />
-          <entry key="xml" value="16" />
+          <entry key="java" value="2382" />
+          <entry key="txt" value="6" />
+          <entry key="xml" value="30" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="2084" />
+          <entry key="JAVA" value="2382" />
+          <entry key="PLAIN_TEXT" value="6" />
           <entry key="VTL" value="35" />
-          <entry key="XML" value="16" />
+          <entry key="XML" value="30" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.vcs.git.usages">
+        <counts>
+          <entry key="git.branch.checkout.revision" value="1" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="168">
-              <caret line="37" column="16" lean-forward="true" selection-start-line="37" selection-start-column="16" selection-end-line="37" selection-end-column="16" />
+            <state relative-caret-position="672">
+              <caret line="48" column="17" selection-start-line="28" selection-start-column="4" selection-end-line="48" selection-end-column="17" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/hy/plugin/factory/BeanFactory.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="70">
-              <caret line="5" column="25" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="25" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/hy/plugin/factory/ToolFactory.java">
+        <entry file="file://$PROJECT_DIR$/factory/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="126">
-              <caret line="12" column="46" selection-start-line="12" selection-start-column="46" selection-end-line="12" selection-end-column="46" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+              <caret line="9" column="38" selection-start-line="9" selection-start-column="38" selection-end-line="10" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/factory/src/main/java/hy/plugin/common/factory/ToolFactory.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="154">
+              <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/time/src/main/java/hy/plugin/common/TimeTool.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1372">
-              <caret line="106" column="48" selection-start-line="106" selection-start-column="48" selection-end-line="106" selection-end-column="48" />
+            <state relative-caret-position="252">
+              <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -113,48 +158,39 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/time/src/test/java/hy/plugin/common/TimeToolTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="532">
-              <caret line="45" column="20" selection-start-line="45" selection-start-column="20" selection-end-line="45" selection-end-column="20" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://$MAVEN_REPOSITORY$/org/slf4j/slf4j-api/1.7.12/slf4j-api-1.7.12.jar!/org/slf4j/Logger.class">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1582">
-              <caret line="116" column="21" selection-start-line="116" selection-start-column="15" selection-end-line="116" selection-end-column="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://$MAVEN_REPOSITORY$/org/apache/commons/commons-lang3/3.8.1/commons-lang3-3.8.1-sources.jar!/org/apache/commons/lang3/StringUtils.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="62524">
-              <caret line="4528" column="25" selection-start-line="4528" selection-start-column="25" selection-end-line="4528" selection-end-column="25" />
+            <state relative-caret-position="98">
+              <caret line="14" column="31" selection-start-line="14" selection-start-column="31" selection-end-line="14" selection-end-column="31" />
               <folding>
-                <element signature="e#162510#162511#0" expanded="true" />
-                <element signature="e#162553#162554#0" expanded="true" />
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/time/pom.xml">
+        <entry file="file://$PROJECT_DIR$/factory/src/main/java/hy/plugin/common/common/Constant.java">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/factory/src/main/java/hy/plugin/common/Tool/Tool.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="336">
-              <caret line="24" selection-start-line="24" selection-end-line="24" />
+            <state relative-caret-position="98">
+              <caret line="7" column="22" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/hy/plugin/Tool/Tool.java">
+        <entry file="file://$PROJECT_DIR$/factory/src/main/java/hy/plugin/common/factory/BeanFactory.java">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/time/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="98">
-              <caret line="7" column="26" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="26" />
+            <state relative-caret-position="448">
+              <caret line="32" column="31" selection-start-line="32" selection-start-column="31" selection-end-line="32" selection-end-column="31" />
             </state>
           </provider>
         </entry>
@@ -178,6 +214,13 @@
       <replace />
     </replaceStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="PUSH_TAGS">
+      <GitPushTagMode />
+    </option>
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -186,8 +229,11 @@
         <option value="$PROJECT_DIR$/src/main/java/hy/plugin/factory/BeanFactory.java" />
         <option value="$PROJECT_DIR$/src/main/java/hy/plugin/Tool/Tool.java" />
         <option value="$PROJECT_DIR$/src/main/java/hy/plugin/factory/ToolFactory.java" />
-        <option value="$PROJECT_DIR$/time/pom.xml" />
         <option value="$PROJECT_DIR$/time/src/main/java/hy/plugin/common/ShowType.java" />
+        <option value="$PROJECT_DIR$/baseFatcory/pom.xml" />
+        <option value="$PROJECT_DIR$/base/src/main/java/hy/plugin/common/factory/ToolFactory.java" />
+        <option value="$PROJECT_DIR$/factory/pom.xml" />
+        <option value="$PROJECT_DIR$/time/pom.xml" />
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/time/src/test/java/hy/plugin/common/TimeToolTest.java" />
         <option value="$PROJECT_DIR$/time/src/main/java/hy/plugin/common/TimeTool.java" />
@@ -229,11 +275,11 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="-84" />
-    <option name="y" value="-36" />
-    <option name="width" value="1944" />
-    <option name="height" value="1044" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="1912" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -276,13 +322,14 @@
       </profile-state>
     </entry>
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -306,14 +353,14 @@
               <item name="common-plugin" type="462c0819:PsiDirectoryNode" />
               <item name="time" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="common-plugin" type="b2602c69:ProjectViewProjectNode" />
               <item name="common-plugin" type="462c0819:PsiDirectoryNode" />
               <item name="time" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -321,7 +368,7 @@
               <item name="common-plugin" type="462c0819:PsiDirectoryNode" />
               <item name="time" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="common" type="462c0819:PsiDirectoryNode" />
             </path>
@@ -329,27 +376,37 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541205695462" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541425394758" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="Errors" />
+    <property name="settings.editor.selected.configurable" value="editing.templates" />
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
       <recent name="hy.plugin.common" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\IdeaProjects\common-plugin\base\src\test\java" />
+    </key>
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\IdeaProjects\common-plugin\factory\src\main\java\hy\plugin\common" />
+      <recent name="E:\IdeaProjects\common-plugin\base\src\main\java\hy\plugin\common" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -364,7 +421,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.TimeToolTest.getString1">
+  <component name="RunManager" selected="JUnit.TimeToolTest">
     <configuration name="TimeToolTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="time" />
       <extension name="coverage">
@@ -375,38 +432,6 @@
       </extension>
       <option name="PACKAGE_NAME" value="hy.plugin.common" />
       <option name="MAIN_CLASS_NAME" value="hy.plugin.common.TimeToolTest" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TimeToolTest.getDay" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="time" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="hy.plugin.common.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="hy.plugin.common" />
-      <option name="MAIN_CLASS_NAME" value="hy.plugin.common.TimeToolTest" />
-      <option name="METHOD_NAME" value="getDay" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TimeToolTest.getDay1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="time" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="hy.plugin.common.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="hy.plugin.common" />
-      <option name="MAIN_CLASS_NAME" value="hy.plugin.common.TimeToolTest" />
-      <option name="METHOD_NAME" value="getDay1" />
-      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -443,20 +468,52 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TimeToolTest.showDay" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="time" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hy.plugin.common.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="hy.plugin.common" />
+      <option name="MAIN_CLASS_NAME" value="hy.plugin.common.TimeToolTest" />
+      <option name="METHOD_NAME" value="showDay" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TimeToolTest.showTime" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="time" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hy.plugin.common.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="hy.plugin.common" />
+      <option name="MAIN_CLASS_NAME" value="hy.plugin.common.TimeToolTest" />
+      <option name="METHOD_NAME" value="showTime" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
-      <item itemvalue="JUnit.TimeToolTest.getDay" />
-      <item itemvalue="JUnit.TimeToolTest" />
-      <item itemvalue="JUnit.TimeToolTest.getDay1" />
       <item itemvalue="JUnit.TimeToolTest.getString" />
       <item itemvalue="JUnit.TimeToolTest.getString1" />
+      <item itemvalue="JUnit.TimeToolTest.showDay" />
+      <item itemvalue="JUnit.TimeToolTest.showTime" />
+      <item itemvalue="JUnit.TimeToolTest" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.TimeToolTest" />
+        <item itemvalue="JUnit.TimeToolTest.showTime" />
+        <item itemvalue="JUnit.TimeToolTest.showDay" />
         <item itemvalue="JUnit.TimeToolTest.getString1" />
         <item itemvalue="JUnit.TimeToolTest.getString" />
-        <item itemvalue="JUnit.TimeToolTest.getDay1" />
-        <item itemvalue="JUnit.TimeToolTest.getDay" />
-        <item itemvalue="JUnit.TimeToolTest" />
       </list>
     </recent_temporary>
   </component>
@@ -472,68 +529,91 @@
       <updated>1541117912653</updated>
       <workItem from="1541117918297" duration="3159000" />
       <workItem from="1541125961499" duration="25618000" />
-      <workItem from="1541201135119" duration="1199000" />
+      <workItem from="1541201135119" duration="3689000" />
+      <workItem from="1541221497585" duration="10000" />
+      <workItem from="1541221634174" duration="614000" />
+      <workItem from="1541222847973" duration="40000" />
+      <workItem from="1541222925723" duration="7000" />
+      <workItem from="1541238455929" duration="429000" />
+      <workItem from="1541376985164" duration="4677000" />
+      <workItem from="1541390726456" duration="3240000" />
+      <workItem from="1541402293166" duration="3395000" />
+      <workItem from="1541473851547" duration="598000" />
+      <workItem from="1541555447287" duration="129000" />
+      <workItem from="1541666101601" duration="864000" />
+      <workItem from="1541725219234" duration="257000" />
+      <workItem from="1541754762626" duration="321000" />
     </task>
+    <task id="LOCAL-00001" summary="测试提交">
+      <created>1541212084664</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1541212084664</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="TimeToolTest_getString - 2018.11.02 at 19h 53m 30s.xml">
-      <configuration name="TimeToolTest.getString" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="TimeToolTest_getDay1 - 2018.11.02 at 19h 53m 33s.xml">
-      <configuration name="TimeToolTest.getDay1" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="TimeToolTest_getDay1 - 2018.11.02 at 19h 53m 55s.xml">
-      <configuration name="TimeToolTest.getDay1" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="TimeToolTest_getDay1 - 2018.11.02 at 20h 07m 55s.xml">
-      <configuration name="TimeToolTest.getDay1" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="TimeToolTest_getDay - 2018.11.02 at 20h 08m 48s.xml">
-      <configuration name="TimeToolTest.getDay" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="TimeToolTest_getDay1 - 2018.11.02 at 20h 08m 53s.xml">
-      <configuration name="TimeToolTest.getDay1" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="TimeToolTest_getString - 2018.11.02 at 20h 09m 18s.xml">
-      <configuration name="TimeToolTest.getString" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="TimeToolTest_getDay1 - 2018.11.02 at 20h 09m 27s.xml">
-      <configuration name="TimeToolTest.getDay1" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="TimeToolTest_getString - 2018.11.02 at 20h 10m 49s.xml">
-      <configuration name="TimeToolTest.getString" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="TimeToolTest_getString1 - 2018.11.02 at 20h 12m 25s.xml">
       <configuration name="TimeToolTest.getString1" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="TimeToolTest_showDay - 2018.11.03 at 10h 08m 09s.xml">
+      <configuration name="TimeToolTest.showDay" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TimeToolTest_showTime - 2018.11.03 at 10h 09m 00s.xml">
+      <configuration name="TimeToolTest.showTime" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TimeToolTest - 2018.11.03 at 10h 09m 21s.xml">
+      <configuration name="TimeToolTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TimeToolTest - 2018.11.03 at 10h 09m 59s.xml">
+      <configuration name="TimeToolTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TimeToolTest_showTime - 2018.11.03 at 10h 10m 07s.xml">
+      <configuration name="TimeToolTest.showTime" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TimeToolTest - 2018.11.03 at 10h 10m 15s.xml">
+      <configuration name="TimeToolTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TimeToolTest - 2018.11.03 at 10h 11m 34s.xml">
+      <configuration name="TimeToolTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TimeToolTest - 2018.11.03 at 10h 12m 11s.xml">
+      <configuration name="TimeToolTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TimeToolTest - 2018.11.03 at 10h 12m 20s.xml">
+      <configuration name="TimeToolTest" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="29976000" />
+    <option name="totallyTimeSpent" value="47047000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1295" height="695" extended-state="7" />
+    <frame x="1912" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.2534413" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20469083" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="JRebel" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32899627" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32899627" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32774675" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49959514" visible="true" weight="0.32774675" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.49554655" weight="0.32960895" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="9" />
-      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="11" weight="0.32899627" />
+      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.49959514" weight="0.32960895" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5040453" side_tool="true" weight="0.3283859" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.33147115" />
+      <window_info anchor="bottom" id="JRebel Console" order="12" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -545,7 +625,7 @@
       <window_info anchor="right" id="Database" order="8" weight="0.32955465" />
     </layout>
     <layout-to-restore>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2534413" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.28502023" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -554,15 +634,15 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32899627" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32899627" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49959514" visible="true" weight="0.32774675" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.49554655" weight="0.32960895" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="9" />
-      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.49959514" weight="0.32960895" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5040453" side_tool="true" weight="0.3283859" />
       <window_info anchor="bottom" id="Messages" order="11" weight="0.32899627" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -571,15 +651,41 @@
       <window_info anchor="right" id="Capture Analysis" order="4" />
       <window_info anchor="right" id="Theme Preview" order="5" />
       <window_info anchor="right" id="Palette&#9;" order="6" />
-      <window_info anchor="right" id="Maven Projects" order="7" weight="0.32955465" />
+      <window_info anchor="right" id="Maven Projects" order="7" visible="true" weight="0.32955465" />
       <window_info anchor="right" id="Database" order="8" weight="0.32955465" />
     </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="2" />
+        <option value="3" />
+        <option value="1" />
+      </list>
+    </option>
+  </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="测试提交" />
+    <option name="LAST_COMMIT_MESSAGE" value="测试提交" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/time/src/main/java/hy/plugin/common/TimeTool.java</url>
+          <line>354</line>
+          <properties />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/main/java/hy/plugin/factory/Test.java" />
@@ -590,13 +696,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/hy/plugin/common/Constant.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="98">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/hy/plugin/common/Constant.java" />
     <entry file="jar://$MAVEN_REPOSITORY$/org/apache/commons/commons-lang3/3.8.1/commons-lang3-3.8.1.jar!/org/apache/commons/lang3/StringUtils.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="26504">
@@ -618,47 +718,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="37" column="16" lean-forward="true" selection-start-line="37" selection-start-column="16" selection-end-line="37" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/hy/plugin/factory/BeanFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="70">
-          <caret line="5" column="25" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/hy/plugin/factory/ToolFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="12" column="46" selection-start-line="12" selection-start-column="46" selection-end-line="12" selection-end-column="46" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/time/src/main/java/hy/plugin/common/TimeTool.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1372">
-          <caret line="106" column="48" selection-start-line="106" selection-start-column="48" selection-end-line="106" selection-end-column="48" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/time/src/test/java/hy/plugin/common/TimeToolTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="532">
-          <caret line="45" column="20" selection-start-line="45" selection-start-column="20" selection-end-line="45" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/hy/plugin/factory/ToolFactory.java" />
     <entry file="jar://$MAVEN_REPOSITORY$/org/slf4j/slf4j-api/1.7.12/slf4j-api-1.7.12.jar!/org/slf4j/Logger.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1582">
@@ -670,24 +730,75 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="62524">
           <caret line="4528" column="25" selection-start-line="4528" selection-start-column="25" selection-end-line="4528" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/hy/plugin/Tool/Tool.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/hy/plugin/factory/BeanFactory.java" />
+    <entry file="file://$PROJECT_DIR$/base/src/main/java/hy/plugin/common/common/Constant.java" />
+    <entry file="file://$PROJECT_DIR$/base/src/main/java/hy/plugin/common/Tool/Tool.java" />
+    <entry file="file://$PROJECT_DIR$/base/src/main/java/hy/plugin/common/factory/BeanFactory.java" />
+    <entry file="file://$PROJECT_DIR$/base/src/test/java/hy/plugin/common/AppTest.java" />
+    <entry file="file://$PROJECT_DIR$/base/src/main/java/hy/plugin/common/factory/ToolFactory.java" />
+    <entry file="file://$PROJECT_DIR$/base/pom.xml" />
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="672">
+          <caret line="48" column="17" selection-start-line="28" selection-start-column="4" selection-end-line="48" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/factory/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="9" column="38" selection-start-line="9" selection-start-column="38" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/factory/src/main/java/hy/plugin/common/factory/ToolFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/time/src/test/java/hy/plugin/common/TimeToolTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="98">
+          <caret line="14" column="31" selection-start-line="14" selection-start-column="31" selection-end-line="14" selection-end-column="31" />
           <folding>
-            <element signature="e#162510#162511#0" expanded="true" />
-            <element signature="e#162553#162554#0" expanded="true" />
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/time/pom.xml">
+    <entry file="file://$PROJECT_DIR$/factory/src/main/java/hy/plugin/common/common/Constant.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/factory/src/main/java/hy/plugin/common/Tool/Tool.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="336">
-          <caret line="24" selection-start-line="24" selection-end-line="24" />
+        <state relative-caret-position="98">
+          <caret line="7" column="22" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/hy/plugin/Tool/Tool.java">
+    <entry file="file://$PROJECT_DIR$/factory/src/main/java/hy/plugin/common/factory/BeanFactory.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/time/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="98">
-          <caret line="7" column="26" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="26" />
+        <state relative-caret-position="448">
+          <caret line="32" column="31" selection-start-line="32" selection-start-column="31" selection-end-line="32" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/time/src/main/java/hy/plugin/common/TimeTool.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -743,7 +854,7 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>common-plugin</last-edited>
+          <last-edited>base</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>

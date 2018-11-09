@@ -1,4 +1,4 @@
-package hy.plugin.common;
+package hy.plugin.common.common;
 
 
 /**

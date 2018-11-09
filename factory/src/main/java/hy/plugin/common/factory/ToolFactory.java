@@ -1,6 +1,8 @@
-package hy.plugin.factory;
+package hy.plugin.common.factory;
 
-import hy.plugin.Tool.Tool;
+
+
+import hy.plugin.common.Tool.Tool;
 
 import java.util.HashMap;
 import java.util.Map;
