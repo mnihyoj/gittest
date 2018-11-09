@@ -2,36 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="68b32935-844a-4f3f-a96c-4cba8a8fd25f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/factory/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/map/target/map-1.0.0.jar" beforeDir="false" afterPath="$PROJECT_DIR$/map/target/map-1.0.0.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/map/target/surefire-reports/TEST-hy.plugin.common.AppTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/map/target/surefire-reports/TEST-hy.plugin.common.AppTest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/map/target/surefire-reports/hy.plugin.common.AppTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/map/target/surefire-reports/hy.plugin.common.AppTest.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/hy/plugin/Tool/Tool.java" beforeDir="false" afterPath="$PROJECT_DIR$/factory/src/main/java/hy/plugin/common/Tool/Tool.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/hy/plugin/common/Constant.java" beforeDir="false" afterPath="$PROJECT_DIR$/factory/src/main/java/hy/plugin/common/common/Constant.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/hy/plugin/factory/BeanFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/factory/src/main/java/hy/plugin/common/factory/BeanFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/hy/plugin/factory/ToolFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/factory/src/main/java/hy/plugin/common/factory/ToolFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/hy/plugin/Tool/Tool.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/hy/plugin/common/Constant.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/hy/plugin/factory/BeanFactory.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/hy/plugin/factory/ToolFactory.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/time/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/time/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/time/src/main/java/hy/plugin/common/TimeTool.java" beforeDir="false" afterPath="$PROJECT_DIR$/time/src/main/java/hy/plugin/common/TimeTool.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/time/src/test/java/hy/plugin/common/TimeToolTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/time/src/test/java/hy/plugin/common/TimeToolTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/time/target/classes/hy/plugin/common/TimeTool.class" beforeDir="false" afterPath="$PROJECT_DIR$/time/target/classes/hy/plugin/common/TimeTool.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/time/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/time/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/time/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/time/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/time/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/time/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/time/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/time/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/time/target/surefire-reports/TEST-hy.plugin.common.AppTest.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/time/target/surefire-reports/hy.plugin.common.AppTest.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/time/target/test-classes/hy/plugin/common/TimeToolTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/time/target/test-classes/hy/plugin/common/TimeToolTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/time/target/time-1.0.0.jar" beforeDir="false" afterPath="$PROJECT_DIR$/time/target/time-1.0.0.jar" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/time/target/" />
@@ -94,15 +65,15 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="ft" value="35" />
-          <entry key="java" value="2382" />
-          <entry key="txt" value="6" />
+          <entry key="java" value="2399" />
+          <entry key="txt" value="8" />
           <entry key="xml" value="30" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="2382" />
-          <entry key="PLAIN_TEXT" value="6" />
+          <entry key="JAVA" value="2399" />
+          <entry key="PLAIN_TEXT" value="8" />
           <entry key="VTL" value="35" />
           <entry key="XML" value="30" />
         </counts>
@@ -146,8 +117,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/time/src/main/java/hy/plugin/common/TimeTool.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="252">
-              <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
+            <state relative-caret-position="665">
+              <caret line="271" lean-forward="true" selection-start-line="271" selection-end-line="271" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -383,7 +354,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541425394758" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541755337190" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -542,7 +513,7 @@
       <workItem from="1541555447287" duration="129000" />
       <workItem from="1541666101601" duration="864000" />
       <workItem from="1541725219234" duration="257000" />
-      <workItem from="1541754762626" duration="321000" />
+      <workItem from="1541754762626" duration="534000" />
     </task>
     <task id="LOCAL-00001" summary="测试提交">
       <created>1541212084664</created>
@@ -551,7 +522,14 @@
       <option name="project" value="LOCAL" />
       <updated>1541212084664</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="测试提交">
+      <created>1541755114765</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1541755114765</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -587,7 +565,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="47047000" />
+    <option name="totallyTimeSpent" value="47260000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1912" y="-8" width="1936" height="1056" extended-state="6" />
@@ -674,18 +652,6 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="测试提交" />
     <option name="LAST_COMMIT_MESSAGE" value="测试提交" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/time/src/main/java/hy/plugin/common/TimeTool.java</url>
-          <line>354</line>
-          <properties />
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/main/java/hy/plugin/factory/Test.java" />
@@ -794,8 +760,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/time/src/main/java/hy/plugin/common/TimeTool.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
+        <state relative-caret-position="665">
+          <caret line="271" lean-forward="true" selection-start-line="271" selection-end-line="271" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
