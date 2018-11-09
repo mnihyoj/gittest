@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="68b32935-844a-4f3f-a96c-4cba8a8fd25f" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/time/src/main/java/hy/plugin/common/TimeTool.java" beforeDir="false" afterPath="$PROJECT_DIR$/time/src/main/java/hy/plugin/common/TimeTool.java" afterDir="false" />
+    <list default="true" id="68b32935-844a-4f3f-a96c-4cba8a8fd25f" name="Default Changelist" comment="测试提交2">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/time/target/" />
@@ -66,14 +66,14 @@
         <counts>
           <entry key="ft" value="35" />
           <entry key="java" value="2399" />
-          <entry key="txt" value="8" />
+          <entry key="txt" value="19" />
           <entry key="xml" value="30" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="JAVA" value="2399" />
-          <entry key="PLAIN_TEXT" value="8" />
+          <entry key="PLAIN_TEXT" value="19" />
           <entry key="VTL" value="35" />
           <entry key="XML" value="30" />
         </counts>
@@ -117,8 +117,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/time/src/main/java/hy/plugin/common/TimeTool.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="665">
-              <caret line="271" lean-forward="true" selection-start-line="271" selection-end-line="271" />
+            <state relative-caret-position="436">
+              <caret line="289" column="80" selection-start-line="289" selection-start-column="80" selection-end-line="289" selection-end-column="80" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -308,41 +308,6 @@
               <item name="common-plugin" type="b2602c69:ProjectViewProjectNode" />
               <item name="common-plugin" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="common-plugin" type="b2602c69:ProjectViewProjectNode" />
-              <item name="common-plugin" type="462c0819:PsiDirectoryNode" />
-              <item name="time" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="common-plugin" type="b2602c69:ProjectViewProjectNode" />
-              <item name="common-plugin" type="462c0819:PsiDirectoryNode" />
-              <item name="time" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="common-plugin" type="b2602c69:ProjectViewProjectNode" />
-              <item name="common-plugin" type="462c0819:PsiDirectoryNode" />
-              <item name="time" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="common-plugin" type="b2602c69:ProjectViewProjectNode" />
-              <item name="common-plugin" type="462c0819:PsiDirectoryNode" />
-              <item name="time" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="common-plugin" type="b2602c69:ProjectViewProjectNode" />
-              <item name="common-plugin" type="462c0819:PsiDirectoryNode" />
-              <item name="time" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="common" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -354,7 +319,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541755337190" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541756259334" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -513,7 +478,7 @@
       <workItem from="1541555447287" duration="129000" />
       <workItem from="1541666101601" duration="864000" />
       <workItem from="1541725219234" duration="257000" />
-      <workItem from="1541754762626" duration="534000" />
+      <workItem from="1541754762626" duration="1381000" />
     </task>
     <task id="LOCAL-00001" summary="测试提交">
       <created>1541212084664</created>
@@ -529,7 +494,21 @@
       <option name="project" value="LOCAL" />
       <updated>1541755114765</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="测试提交2">
+      <created>1541755316092</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1541755316092</updated>
+    </task>
+    <task id="LOCAL-00004" summary="测试提交2">
+      <created>1541755350709</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1541755350709</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -565,11 +544,10 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="47260000" />
+    <option name="totallyTimeSpent" value="48107000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1912" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20469083" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -586,7 +564,7 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.49554655" weight="0.32960895" />
+      <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.49554655" weight="0.32887402" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.49959514" weight="0.32960895" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5040453" side_tool="true" weight="0.3283859" />
@@ -651,7 +629,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="测试提交" />
-    <option name="LAST_COMMIT_MESSAGE" value="测试提交" />
+    <MESSAGE value="测试提交2" />
+    <option name="LAST_COMMIT_MESSAGE" value="测试提交2" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/main/java/hy/plugin/factory/Test.java" />
@@ -760,8 +739,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/time/src/main/java/hy/plugin/common/TimeTool.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="665">
-          <caret line="271" lean-forward="true" selection-start-line="271" selection-end-line="271" />
+        <state relative-caret-position="436">
+          <caret line="289" column="80" selection-start-line="289" selection-start-column="80" selection-end-line="289" selection-end-column="80" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
